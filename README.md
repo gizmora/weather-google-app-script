@@ -2,6 +2,10 @@
 
 OpenMeteo is a open-source weather API that doesn't require API key (completely free). It provides free weather data provided by esteemed weather services.
 
+## Update!!!
+
+*Due to changes in the OpenMeteo Weather API, the script won't work as instructed. I will be updating the code. Stay tuned! For now enjoy the [demo](https://drive.google.com/file/d/1jsimIxWPcE1V6usjy-pEXo_w1LyufwyM/view?usp=sharing) ;). *
+
 ## Description
 
 Using Google App Script, we can build a built-in menu in Google Sheets to pull data from OpenMeteo Weather API and save data in the same Google Sheet file.
