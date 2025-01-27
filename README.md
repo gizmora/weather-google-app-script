@@ -4,7 +4,7 @@ OpenMeteo is a open-source weather API that doesn't require API key (completely 
 
 ## Update!!!
 
-*Due to changes in the OpenMeteo Weather API, the script won't work as instructed. I will be updating the code. Stay tuned! For now enjoy the [demo](https://drive.google.com/file/d/1jsimIxWPcE1V6usjy-pEXo_w1LyufwyM/view?usp=sharing) ;). *
+*Due to changes in the OpenMeteo Weather API, the script won't work as instructed. I will be updating the code. Stay tuned! For now enjoy the [demo](https://drive.google.com/file/d/1jsimIxWPcE1V6usjy-pEXo_w1LyufwyM/view?usp=sharing) ;).*
 
 ## Description
 
